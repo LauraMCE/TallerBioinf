@@ -119,7 +119,8 @@ Parsear archivos output:
 * [Choose by gene labels](https://github.com/FernandaDiaz12/pediatric_astrocytoma/issues/5) 
 
 Gráficas:
-* [Code color in volcano plots - R (Laura) ](https://github.com/LauraMCE/lncRNA_BC/issues/8)
+* [Code color in volcano plots - R (Laura) ](https://github.com/LauraMCE/lncRNA_BC/issues/8) 
+* [Using different scales in barplot simultaneously - R (Laura) ](hhttps://github.com/LauraMCE/lncRNA_BC/issues/10)
 * [Plot cophylogeny (Melisa)](https://github.com/almamelisa/Euphoniinae-Subfamily/issues/5)
 
 Phylogenies:
